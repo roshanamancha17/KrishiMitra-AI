@@ -1,0 +1,6 @@
+__pycache__/
+.env
+.vscode/
+*.pyc
+models/
+mobile/.flutter-plugins
